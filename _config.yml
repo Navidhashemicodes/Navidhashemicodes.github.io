@@ -24,9 +24,7 @@ author:
   avatar           : "Navid_photo.jpg"
   name             : "Navid Hashemi"
   pronouns         : # example: "she/her"  
-  bio              : | | 
-    Neurosymbolic AI: 
-    Artificial Intelligence + Temporal Logics
+  bio              : "Neurosymbolic AI:<br>Artificial Intelligence + Temporal Logics"
   
   location         : "Los Angeles California USA"
   employer         : "University of Southern California(USC)"
