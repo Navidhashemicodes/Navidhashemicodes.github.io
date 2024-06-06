@@ -6,10 +6,10 @@ main:
   - title: "Past Projects"
     url: /markdown/
 
-    - title: "New Results"
+  - title: "New Results"
     url: /teaching/ 
 
-    - title: "Upcomming Results"
+  - title: "Upcomming Results"
     url: /year-archive/
     
     
