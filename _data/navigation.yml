@@ -1,24 +1,24 @@
 # main links links
 main:
+
+  - title: "CV"
+    # url: /cv/
+    url: /files/N_Hashemi_CV.pdf
+
+  - title: "Portfolio"
+    url: /portfolio/
+    
   - title: "Publications"
     url: /publications/
-    
-  - title: "Past Projects"
-    url: /markdown/
-
-  - title: "New Results"
-    url: /teaching/ 
 
   - title: "Upcomming Results"
     url: /year-archive/
-    
     
   - title: "Talks"
     url: /talks/      
     
     
-  - title: "CV"
-    url: /cv/
+  
 
     
     
