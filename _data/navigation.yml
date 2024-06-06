@@ -3,9 +3,15 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Projects"
+  - title: "Past Projects"
     url: /markdown/
 
+    - title: "New Results"
+    url: /teaching/ 
+
+    - title: "Upcomming Results"
+    url: /year-archive/
+    
     
   - title: "Talks"
     url: /talks/      
@@ -13,5 +19,7 @@ main:
     
   - title: "CV"
     url: /cv/
+
+    
     
   
