@@ -20,4 +20,5 @@ I generated the first deterministic formal verification framework for Signal Tem
 
 I scaled the process of Neural Feedback Policy Learning for agents to satisfy Signal Temporal Logics specification [STL_dropout](https://github.com/Navidhashemicodes/STL_dropout). This was achieved by combination of stochastic depth (firstly proposed for ResNet) via Neurosymbolic MBRL.
 
+## Research Outcomes
 I have published 4 jouranal papers and 15 conference papers focusing on Neurosymbolic Learning and Verification, CPS and Control Theory in reputable IEEE and ACM journals and conferences. Feel free to see my [publication entry](https://navidhashemicodes.github.io/publications/)   
