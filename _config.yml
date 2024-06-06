@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Navid Hashemi/ Personal Website"
+title                    : "Navid's Homepage"
 title_separator          : "-"
 name                     : &name "Navid Hashemi"
 description              : &description "Active Researcher in the intersection of AI and CPS"
@@ -24,7 +24,7 @@ author:
   avatar           : "Navid_photo.jpg"
   name             : "Navid Hashemi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Learning based Control"
   location         : "Los Angeles California USA"
   employer         : "University of Southern California - USC Viterbi"
   uri              : # URL
