@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+![Neurosymbolic AI introduction](/images/Neurosymbolic AI.jpg){: .align-right width="300px"}
+
 I am a last year PhD student at the Engineering school of the University of Southern California (USC-Viterbi) majoring in Computer Science.
 
-My research area is in the intersection of Artificial Inteligence and Temporal Logics with application on Formal Verification and Neurosymbolic Reinforcement Learning.
+My research area lies at the intersection of Artificial Intelligence and Temporal Logics, with applications in Formal Verification and Neurosymbolic Reinforcement Learning.
