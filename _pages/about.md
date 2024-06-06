@@ -18,4 +18,6 @@ My research area lies at the intersection of Artificial Intelligence and Tempora
 ## Open Source Contribution
 I generated the first deterministic formal verification framework for Signal Temporal logics in collaboration with research scientists of Toyota Research Institute North of America (TRINA) [STLVerNN](https://github.com/Navidhashemicodes/STL_dropout) that verifies general Temporal specifications for Learning enabled autonomous systems.
 
-I scaled the process of Neural feedback policy learning for agents to satisfy Signal Temporal Logics specification [STL_dropout](https://github.com/Navidhashemicodes/STL_dropout). This was achieved by combination of stochastic depth (firstly proposed for ResNet) via Neurosymbolic MBRL.  
+I scaled the process of Neural Feedback Policy Learning for agents to satisfy Signal Temporal Logics specification [STL_dropout](https://github.com/Navidhashemicodes/STL_dropout). This was achieved by combination of stochastic depth (firstly proposed for ResNet) via Neurosymbolic MBRL.
+
+I have published 4 jouranal papers and 15 conference papers focusing on Neurosymbolic Learning and Verification, CPS and Control Theory in reputable IEEE and ACM journals and conferences. Feel free to see my [publication entry](https://navidhashemicodes.github.io/publications/)   
