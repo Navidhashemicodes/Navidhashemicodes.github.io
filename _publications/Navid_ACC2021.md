@@ -6,6 +6,7 @@ excerpt: 'We exploit recent results in quantifying the robustness of neural netw
 date: 2021-05-01
 venue: 'IEEE 2021 American Control Conference (ACC), 3260-3266'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9482752'
+citation: 'Hashemi, Navid, Mahyar Fazlyab, and Justin Ruths. "Performance bounds for neural network estimators: Applications in fault detection." 2021 American Control Conference (ACC). IEEE, 2021.'
 ---
 
 
