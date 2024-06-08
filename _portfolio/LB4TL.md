@@ -1,6 +1,6 @@
 ---
 title: "LB4TL"
-excerpt: "A Neuro symbolic algorithm to train Neural feedback policy for Temporal tasks. <br/><img src='/images/LB4TL.png'>"
+excerpt: "A novel and scalable smooth under approximation for STL quantitative semantics, with application to Neuro-symbolic training process for Neural feedback controllers. <br/><img src='/images/LB4TL.png'>"
 collection: portfolio
 ---
 
