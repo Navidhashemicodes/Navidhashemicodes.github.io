@@ -22,3 +22,9 @@ I scaled the process of Neural Feedback Policy Learning for agents to satisfy Si
 
 ## Research Outcomes
 I have published 4 jouranal papers and 15 conference papers focusing on Neurosymbolic Learning and Verification, CPS and Control Theory in reputable IEEE and ACM journals and conferences. Feel free to see my [publication entry](https://navidhashemicodes.github.io/publications/)   
+
+
+## Upcomming News
+1- My paper :  LB4TL: Smooth Semantics for Temporal Logic for Scalable Training of Neural Feedback Controllers.<br> has been accepted in ADHS conference and I will present it in Colorado University in July.
+2- My paper :  Scaling Learning based Policy Optimization for Temporal Tasks via Dropout<br> has been submitted to ACM Tranactions of Cyber Physical Systems
+3- Another paper of mine has been accepted in the first round of review for IEEE Transaction on Parallel Distributed systems and it will also hopefuly pass the second round.
