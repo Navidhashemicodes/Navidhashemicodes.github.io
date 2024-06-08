@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Upcomming Results"
-    url: /year-archive/
+  # - title: "Upcomming Results"
+  #   url: /year-archive/
     
   - title: "Talks"
     url: /talks/      
