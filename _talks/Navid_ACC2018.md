@@ -1,5 +1,5 @@
 ---
-title: "-A comparison of stealthy sensor attacks on control systems"
+title: "A comparison of stealthy sensor attacks on control systems"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/Navid_ACC2018
