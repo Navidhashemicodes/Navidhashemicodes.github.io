@@ -1,5 +1,5 @@
 ---
-title: "-Risk-Awareness in Learning Neural Controllers for Temporal Logic Objectives"
+title: "Risk-Awareness in Learning Neural Controllers for Temporal Logic Objectives"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/Navid_ACC2023
