@@ -1,7 +1,7 @@
 ---
 title: "A Neurosymbolic Approach to the Verification of Temporal Logic Properties of Learning-enabled Control Systems"
 collection: talks
-type: "Talk"
+type: "Conference Proceedings Talk"
 permalink: /talks/Navid_TALKICCPS
 venue: "14TH ACM/IEEE INTERNATIONAL CONFERENCE ON CYBER-PHYSICAL SYSTEMS"
 date: 2023-09-05
