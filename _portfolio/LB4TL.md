@@ -4,4 +4,4 @@ excerpt: "A Neuro symbolic algorithm to train Neural feedback policy for Tempora
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The traditional robustness semantics for Temporal Logics is a recursive combination of min/max operations. In case we utilize this in Neuro-symbolic algorithm in MBRL it may result in failure due to non-differentiability issues. There was a couple of trials in the literature to propose a smooth approximation for this symbolic objective function in a Neuro-symbolic training process. I have provided the most scalable smooth approximation that enables us to apply policy optimization for more complex temporal task. The toolbox for this technique is available from [here]('https://github.com/Navidhashemicodes/LB4TL'). 
