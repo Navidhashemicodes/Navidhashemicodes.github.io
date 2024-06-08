@@ -1,6 +1,6 @@
 ---
 title: "STL_dropout"
-excerpt: "Neural Feedback controller training for long time horizon tasks<br/><img src='/images/quadapprox_intro.png'>"
+excerpt: "Neural Feedback controller training for long time horizon tasks and high dimensional systems.<br/><img src='/images/quadapprox_intro.png'>"
 collection: portfolio
 ---
 
