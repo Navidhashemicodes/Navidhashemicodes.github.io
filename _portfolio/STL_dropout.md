@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "STL_dropout"
+excerpt: "Neural Feedback controller training for long time horizon tasks<br/><img src='/images/quadapprox_intro.png'>"
 collection: portfolio
 ---
 
