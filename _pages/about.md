@@ -11,7 +11,7 @@ redirect_from:
 
 I am a last year PhD student at the Engineering school of the University of Southern California (USC-Viterbi) majoring in Computer Science.
 
-My research area lies at the intersection of Artificial Intelligence and Temporal Logics, with applications in Formal Verification and Neurosymbolic Reinforcement Learning.
+My research area lies at the intersection of Artificial Intelligence and Temporal Logics, with applications in Formal Verification of Learning Enabled Systems and Neurosymbolic Reinforcement Learning.
 
 # Selected Experience
 
