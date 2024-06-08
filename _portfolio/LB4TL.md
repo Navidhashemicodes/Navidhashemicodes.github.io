@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "LB4TL"
+excerpt: "A Neuro symbolic algorithm to train Neural feedback policy for Temporal tasks. <br/><img src='/images/LB4TL.png'>"
 collection: portfolio
 ---
 
