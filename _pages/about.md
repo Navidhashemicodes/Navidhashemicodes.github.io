@@ -27,4 +27,4 @@ I have published 4 jouranal papers and 15 conference papers focusing on Neurosym
 ## Upcomming News
 1- My paper :  LB4TL: Smooth Semantics for Temporal Logic for Scalable Training of Neural Feedback Controllers.<br> has been published as an IFAC conference paper.<br>
 2- My paper :  Scaling Learning based Policy Optimization for Temporal Tasks via Dropout<br> has been accepted in ACM Tranactions of Cyber Physical Systems (TCPS 2024).<br>
-3- My paper :  Statistical Reachability Analysis of Stochastic Cyber-Physical Systems under Distribution Shift<br> has been accepted in IEEE Transactions on Parallel and Distributed Systems (TPDS 2024), and will be presented in ESWeek as a part of EMSOFT conference.<br>
+3- My paper :  Statistical Reachability Analysis of Stochastic Cyber-Physical Systems under Distribution Shift<br> has been accepted in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2024), and will be presented in ESWeek as a part of EMSOFT conference.<br>
